@@ -1,0 +1,112 @@
+body {
+	margin: 0 top;
+}
+.main {
+	width: 100%;
+	height: 100%
+	display: inline-block;
+}
+.image {
+	width: 33%;
+	height: 33%
+	float: left;
+	text-align: center;
+}
+.some_text {
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+.some_text_2 {
+	width: 33%;
+	float: right;
+	text-align: center no-repeat top / cover;
+
+}
+.banner {
+	background: url('https://vestikavkaza.ru/upload/2017-05-23/149557097359249a1dcc4b12.35397201.jpg') no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 500px;
+	display: block;
+}
+.b_content {
+	display: block;
+	padding-top: 20px;
+	padding-bottom: 60px;
+	text-align: center;
+	margin: 20px
+}
+.adress {
+	padding-top: 20px;
+	padding-bottom: 60px;
+	text-align: right;
+	margin: 20px
+ }
+.menu {
+	margin: 0;
+	padding: 0;
+}
+.menu li {
+   float: right;
+   display: block;
+   margin-right: 20px;
+   padding-top: 0px;
+
+}
+.menu li a {
+   color: red;
+   display: block;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-size: 14px;
+ }
+nav {
+  margin-top: 30px;
+}
+.b_content1 {
+	padding-top: 140px;	
+	padding-left: 50px;
+	margin-bottom: 20px;
+
+}
+.b_content2 strong {
+	display: block;
+	padding: 180px;
+	text-align: right;
+}
+#container {
+  color: blue;
+  font-size: 18px 
+  weight: 100px;
+  height: 320px;
+  padding-left: 20px;
+  padding-top: 40px;
+  padding-bottom: 70px;
+}
+.container2 {
+	padding-bottom: 50px;
+}
+#container3 {
+  color: blue;
+  font-size: 20px; 
+ weight: 100px;
+  height: 320px;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  display: block;
+}
+.b_content3 {
+	padding-top: 110px;	
+	padding-left: 50px;
+	padding-bottom: 0px;
+}
+.border {
+     text-align: left;
+
+}
+
+.mailinfo {
+	margin: 50px;
+}
